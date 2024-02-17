@@ -89,3 +89,9 @@ input:focus::placeholder{
 .login-text:active{
     opacity:1;
 }
+.background-image{
+    background-image: url("https://c4.wallpaperflare.com/wallpaper/833/338/402/ship-sailing-ship-fantasy-art-sea-wallpaper-preview.jpg");
+    background-repeat: no-repeat; 
+    background-size: cover;
+    background-position: center;
+}
